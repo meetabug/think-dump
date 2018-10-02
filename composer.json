@@ -1,0 +1,21 @@
+{
+    "name": "meetabug/think-print",
+    "description": "thinkphp5 dump() function",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "luoweilong",
+            "email": "1272526724@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Meetabug\\": "src"
+        },
+        "files": [
+            "autoload.php"
+        ]
+    }
+}
